@@ -18,6 +18,6 @@ Calculator with NASM  in a simple OS
   <li>press ok</li>
   <li>press start</li>
 </ol>
-<p>If can not open it you must Disk&Boot in the options then edit and sellect 1.44MG and sellect floppy.img file and start it </p>
+<p>If can not open it you must change to Disk&Boot in the options then edit and sellect 1.44MG and sellect floppy.img file and start it </p>
 <span style="color:orange">pretty GUI is gui without calculator and simple GUI is calculator without Good GUI</span>
 
